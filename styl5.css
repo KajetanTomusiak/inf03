@@ -1,0 +1,23 @@
+body {
+    font-family: Tahoma;
+}
+
+header {
+    background-color: #7da453;
+    color: white;
+    height: 120px;
+    display: flex;
+}
+
+.banner1, .banner2 {
+    width: 40%;
+}
+
+.banner3 {
+    width: 20%;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
